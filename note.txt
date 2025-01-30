@@ -1,0 +1,1 @@
+shoppin-cart: <i class="fa-solid fa-cart-shopping"></i>
